@@ -1,6 +1,6 @@
-# 🏠 Major Project: Airbnb Clone
+# 🏠 Major Project: Travelstay project
 
-A full-stack web application inspired by **Airbnb**, built using **Node.js**, **Express**, **MongoDB**, and **EJS** templating.  
+A full-stack web application inspired by **Travelstay**, built using **Node.js**, **Express**, **MongoDB**, and **EJS** templating.  
 This project enables users to create, view, and review listings, complete with authentication, image uploads (via Cloudinary), and map integration (via Mapbox).
 
 ---
